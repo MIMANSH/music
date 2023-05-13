@@ -47,10 +47,16 @@ let allMusic = [
     src: 'music-6',
   },
   {
-    name: '...Ready For It - (Taylor Swift)',
+    name: 'Ready For It',
     artist: 'Taylor Swift',
     img: 'music-7',
     src: 'music-7',
+  },
+  {
+    name: 'WAP',
+    artist: 'Cardi B',
+    img: 'music-8',
+    src: 'music-8',
   },
   // like this paste it and remember to give comma after ending of this bracket }
   // {
