@@ -53,7 +53,7 @@ let allMusic = [
     src: 'music-7',
   },
   {
-    name: 'WAP',
+    name: 'Girls Like You',
     artist: 'Cardi B',
     img: 'music-8',
     src: 'music-8',
